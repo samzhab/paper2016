@@ -1,5 +1,5 @@
 ---
-#Semantic Lifting of Budget Data
+##Semantic Lifting of Budget Data
 ###University of Bonn, EIS working group
 #####October 2016
 ---
@@ -15,16 +15,16 @@ Fathoni Musyaffa
 4. Samuel Y. Ayele
 
 ---
-More on the project: 
+More on the project can be found in our 
 [BitBucket Repository
-](https://bitbucket.org/cowclaw/semweblab2016)
+](https://bitbucket.org/cowclaw/semweblab2016) and 
 [Google Drive Folder](https://drive.google.com/open?id=0B0dpa_yvb1I6dlIwNGRBZkJ0VnM)
 
 
 
 
 
-##ABuDaT (administrative budget data transformer)
+###ABuDaT (administrative budget data transformer)
 
 
 ###0. Prerequisites
