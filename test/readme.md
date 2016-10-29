@@ -1,4 +1,24 @@
+--------------
+Semantic Lifting of Budget Data
+--------------
 
+---
+Group E
+---
+
+---
+Mentor : M Fath
+---
+
+---
+Members: 
+1.
+2.
+3.
+4.
+---
+
+---
 
 #ABuDaT (administrative budget data transformer)
 ####Semantic Lifting Of  Budget Data - SemWeb Lab 2016 - University of Bonn, EIS working group
