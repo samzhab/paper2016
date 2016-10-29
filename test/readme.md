@@ -18,11 +18,11 @@ Fathoni Musyaffa
 ##ABuDaT (administrative budget data transformer)
 ####Semantic Lifting Of  Budget Data - SemWeb Lab 2016 - University of Bonn, EIS working group
 
-####0. Prerequisites
+###0. Prerequisites
 * Have git installed.
 * Have a JDK (v8) installed.
 
-####1. Installation
+###1. Installation
 Clone the sources
 
     $ git clone https://cowclaw@bitbucket.org/cowclaw/semweblab2016.git
@@ -69,7 +69,7 @@ It is possible to run ABuDaT in a dedicated tomcat server. Therefor simply assem
 You can find it the war here: semweblab2016/ABuDaT/build/libs/ABuDaT.war. It can then be copied to tomcats webapp folder.
 Note that in this case the server.port=${port:9000} setting will have no effect.
 
-####2. Database Setup
+###2. Database Setup
 Install mysql-server
 
     $ sudo apt-get install mysql-server
@@ -237,7 +237,7 @@ To stop it run:
     $ linkedpipes_etl.sh stop
     
     
-####3.Testing ABuDat With Selenium IDE
+###3.Testing ABuDat With Selenium IDE
  * Assuming Firefox Browser Already installed,
  * ABuDat running on http://localhost:9000/
  * Linkedpipes_etl running on http://localhost:8080/
