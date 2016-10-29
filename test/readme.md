@@ -15,6 +15,13 @@ Fathoni Musyaffa
 4. Samuel Y. Ayele
 
 ---
+More on the project: 
+[BitBucket Repository
+](https://bitbucket.org/cowclaw/semweblab2016)
+[Google Drive Folder](https://drive.google.com/open?id=0B0dpa_yvb1I6dlIwNGRBZkJ0VnM)
+
+
+
 
 
 ##ABuDaT (administrative budget data transformer)
