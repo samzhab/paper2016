@@ -1,5 +1,7 @@
 ---
 #Semantic Lifting of Budget Data
+###University of Bonn, EIS working group
+#####October 2016
 ---
 ####Group E
 
@@ -16,7 +18,7 @@ Fathoni Musyaffa
 
 
 ##ABuDaT (administrative budget data transformer)
-####Semantic Lifting Of  Budget Data - SemWeb Lab 2016 - University of Bonn, EIS working group
+
 
 ###0. Prerequisites
 * Have git installed.
