@@ -18,7 +18,7 @@ Fathoni Musyaffa
 4. Samuel Y. Ayele
 
 ---
-More on the project can be found in our 
+More information about the project can be found in our 
 [BitBucket Repository
 ](https://bitbucket.org/cowclaw/semweblab2016) and 
 [Google Drive Folder](https://drive.google.com/open?id=0B0dpa_yvb1I6dlIwNGRBZkJ0VnM)
@@ -26,6 +26,8 @@ More on the project can be found in our
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ABuDaT - Administrative Budget Data Transformer</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/EIS-Bonn/MA-INF3232-4313-Lab-SS2016/tree/master/Ge" property="cc:attributionName" rel="cc:attributionURL">Florian Weile, Tatiana Novikova, Aberham Gebreyohannes, Samuel Y. Ayele</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+---
 
 
 ###ABuDaT (administrative budget data transformer)
