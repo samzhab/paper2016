@@ -1,7 +1,10 @@
 ---
 ##Semantic Lifting of Budget Data
-###University of Bonn, EIS working group
+####University of Bonn, EIS working group
 #####October 2016
+
+This work has been internationally licensed with Creative Commons to allow adaptations of our work to be shared as long as others share alike. However commercial usage of our work is prohibited without the knowledge of the group members
+
 ---
 ####Group E
 
