@@ -4,6 +4,7 @@
 #####October 2016
 
 This work has been internationally licensed with Creative Commons to allow adaptations of our work to be shared as long as others share alike. However commercial usage of our work is prohibited without the knowledge of the group members
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ABuDaT - Administrative Budget Data Transformer</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/EIS-Bonn/MA-INF3232-4313-Lab-SS2016/tree/master/Ge" property="cc:attributionName" rel="cc:attributionURL">Florian Weile, Tatiana Novikova, Aberham Gebreyohannes, Samuel Y. Ayele</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ---
 ####Group E
